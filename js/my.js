@@ -18,6 +18,5 @@ function square(){
         str += -b / (2 * a) + Math.sqrt(d) / (2 * a);
         str += ".";
     }
-    
     sol.innerHTML = str;
 }
